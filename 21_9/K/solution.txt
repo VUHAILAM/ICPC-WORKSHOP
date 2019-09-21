@@ -1,0 +1,1 @@
+Bài này thuộc dạng cặp ghép cực đại với trọng số cực tiểu :3. Đầu tiên tính khoảng cách của các con Vua đến các ô r==c để tạo ra 1 đồ thị có trọng số rồi dùng code bài MATCH2 mà phang thôi. P/S: TKS anh Vũ béo lần trước đợt làm contest Codewar Fsoft có thông não 1 bài dạng kiểu này nên nhìn phát ra ngay vấn đề.
