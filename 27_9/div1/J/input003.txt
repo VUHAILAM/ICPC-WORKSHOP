@@ -1,0 +1,7 @@
+5 10 3
+3 6 1 100
+...G.H.A..
+.AAGAHAABB
+FFAAAAAAA.
+.EEAAADACC
+..E...D...
